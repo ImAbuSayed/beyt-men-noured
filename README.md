@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نار قلبي في هذا الليل
+> ألمس روحك والشوق يميل
+> عيناك تسحر كل المسافات
+> نذوب معاً في هذه اللحظات
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
