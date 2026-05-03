@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Beyt Men Noured |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 29, 2026 |
+| Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/beyt-men-noured/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نار قلبي في هذا الليل
+> ألمس روحك والشوق يميل
+> عيناك تسحر كل المسافات
+> نذوب معاً في هذه اللحظات
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
