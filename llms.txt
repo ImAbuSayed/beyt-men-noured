@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/beyt-men-noured/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License Abu Sayed's Beyt Men Noured](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Request Licensing for Beyt Men Noured](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
