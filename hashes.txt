@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Beyt Men Noured
+
+This log tracks the cryptographic history and versioning for the song **Beyt Men Noured** (beyt-men-noured).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T05:41:55.790902 | `v1` | `d7f1ba0fa3604de51d4accfc518cdcf9f6a2f233c632ebd5051f6f88d821b26b` | `077f00338dcce432296a957c1dc61fd24e02447785c968fe15fee084eef464db` | `2026-05-09_beyt-men-noured-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
